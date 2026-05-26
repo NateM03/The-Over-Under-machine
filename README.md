@@ -34,7 +34,7 @@ This project utilizes a decoupled, enterprise-grade architecture:
 ## Getting Started (Local Development)
 *(Instructions on how to run this project locally via Docker will be added here once the MVP is complete).*
 
-## 🗺️ Development Roadmap & Sprint Tracker
+## Development Roadmap & Sprint Tracker
 *(Note: This section tracks active development sprints and will be removed upon V1.0 launch).*
 
 ### Phase 1: Core Data Pipeline (Python/FastAPI)
